@@ -1,0 +1,2 @@
+include ':app', ':lib_router_annotation', ':lib_router_compiler', ':lib_router_lrouter', ':modulea', ':moduleb'
+rootProject.name='router_test'
